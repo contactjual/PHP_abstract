@@ -22,4 +22,8 @@ $Toyota_company = new final_car("toyota");
 echo $Toyota_company->message();
 
 
+$BMW_company = new final_car("BMW");
+echo $BMW_company->message();
+
+
 ?>
